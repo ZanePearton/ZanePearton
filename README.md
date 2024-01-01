@@ -54,17 +54,12 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
-
-<div align="center">
-  <h2>🫡 Contribution Chart</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
-</div>
 <div align="center">
   <h2>🔥 Contribution Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
 </div>
   <div align="center">
-    <h2>📊 GitHub Stats</h2>
+    <h2> 🫡 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
