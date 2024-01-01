@@ -61,7 +61,7 @@
   
 </div>
 
-<h2 align="center" class="section-heading">🎨 3D Modeling</h2>
+<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
