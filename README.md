@@ -11,10 +11,6 @@
  <h2> 🍔 Latest Commits </h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
  <div align="center">
-
-  <h2> Overall GitHub Contributions</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="Zane's GitHub Stats"/>
-
   <h2>🔥 Current Contribution Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Zane's Contribution Streak"/>
 
