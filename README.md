@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
 </div>
-
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zanepearton)
 ## Here's a Joke to Brighten Your Day 😄
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Joke Card"/>
