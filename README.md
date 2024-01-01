@@ -31,7 +31,9 @@
   <a href="https://www.linkedin.com/in/zane-pearton">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- ... other connections -->
+  <a href="https://linktr.ee/zanepearton">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+</a>
 </div>
 
 **Here's a Joke to Brighten Your Day:**
