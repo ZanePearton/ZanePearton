@@ -3,12 +3,7 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
  <div align="center">
 </div>
-<div align="center">
-<h2>🚀 About Me</h2>
-</div>
-<p align="center">
-  ]Software Engineering specialist at Accenture, my role is to fuse software development with operations, crafting efficient, automated workflows to maintain high system reliability. I deploy in varied environments, handle CI/CD pipelines, and manage environment configuration and user provisioning. I'm dedicated to leveraging my skills for continuous improvement and excellence in my professional pursuits.
-</p>
+
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
