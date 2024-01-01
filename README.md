@@ -1,16 +1,4 @@
-![image](https://github.com/ZanePearton/ZanePearton/assets/87604418/e7b12a32-d83f-419c-9c69-72301ffaf892)
-
-
-      ███████╗░█████╗░███╗░░██╗███████╗
-      ╚════██║██╔══██╗████╗░██║██╔════╝
-      ░░███╔═╝███████║██╔██╗██║█████╗░░
-      ██╔══╝░░██╔══██║██║╚████║██╔══╝░░
-      ███████╗██║░░██║██║░╚███║███████╗
-      ╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝
-
-
-
-### Welcome to the Digital Playground of Zane Pearton 👋
+### Zane 👋
 
 **About Me:**
 - 🔭 I’m fine-tuning cloud architectures to build robust, fail-safe systems.
@@ -23,11 +11,10 @@
 
 **Tech Stack:**
 ```yaml
-Cloud: AWS, Azure, GCP
-Code: Python, Go, JavaScript
+Cloud: AWS, Azure, GCP, TFS
+Code: Python, Go, JavaScript, Java
 Tools: Docker, Kubernetes, Terraform, Jenkins, Ansible
-Database: MySQL, MongoDB, Cassandra
-```
+Database: MySQL, MongoDB, Cassandra, firebase
 
 **GitHub Metrics:**
 ![Zane's GitHub metrics](https://metrics.lecoq.io/ZanePearton?template=classic&config.timezone=Australia%2FSydney)
