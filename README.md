@@ -2,27 +2,11 @@
 
 
 ![image](https://github.com/ZanePearton/ZanePearton/assets/87604418/e7b12a32-d83f-419c-9c69-72301ffaf892)
-<!DOCTYPE html>
-<html lang="en">
-  <!-- https://fsymbols.com/text-art/#google_vignette -->
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Retro Computer Terminal</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="https://unpkg.com/xterm@5.2.1/css/xterm.css">
-  
-  <!-- JavaScript Libraries -->
-  <script src="https://unpkg.com/xterm@5.2.1/lib/xterm.js"></script>
-  <script src="https://unpkg.com/xterm-addon-fit@0.7.0/lib/xterm-addon-fit.js"></script>
-  <script src="https://unpkg.com/xterm-addon-web-links@0.8.0/lib/xterm-addon-web-links.js"></script>
-  <script src="https://unpkg.com/xterm-addon-web-links@0.8.0/lib/xterm-addon-web-links.js"></script>
-  <script src="js/scripts.js"></script>
+
 
 
 
 </head>
-
 <body>
   
   <div id="terminal">
@@ -45,7 +29,7 @@
   <h1> DevOps | Software Engineering | Automation </h1>
   </div>
 </body>
-</html>
+
 
 
 
