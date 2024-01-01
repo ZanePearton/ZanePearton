@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
 </div>
 <div align="center">
-  <h2>🚀 About Me</h2>
+<h2>🚀 About Me</h2>
 </div>
 <p align="center">
   Aus/EU citizenship. Software Engineering specialist at Accenture, my role is to fuse software development with operations, crafting efficient, automated workflows to maintain high system reliability. I deploy in varied environments, handle CI/CD pipelines, and manage environment configuration and user provisioning. I'm dedicated to leveraging my skills for continuous improvement and excellence in my professional pursuits.
@@ -19,47 +19,6 @@
 <p align="center">
   I'm skilled in Docker for containerization, API sandboxing (Postman, Getsandbox), event-driven development (webhooks, adaptive cards), and machine learning libraries (TensorFlow, PyTorch). I'm also versed in WordPress, web hosting, and a suite of collaboration tools such as JIRA, Confluence, Microsoft Teams, and Slack.
 </p>
-
-## Technologies - Development and Operations:
-- **CI/CD Pipelines**: Azure DevOps, GitHub Actions, TFS
-- **Version Control**: Git, GitHub
-- **Scripting Languages**: Bash, JavaScript, PowerShell, Python, YAML
-- **IDEs**: Visual Studio Code, tmux
-- **Cloud Platforms**: AWS, Azure, TFS
-- **Containerization**: Docker
-- **Mainframe**: IBMz
-
-## Software and Systems Engineering:
-- **Programming Languages**: Java, Swift
-- **Machine Learning Libraries**: TensorFlow, PyTorch
-- **CRM Systems**: Salesforce, sfdx
-- **Repository Management**: npm
-
-## Collaboration and Project Management:
-- **Issue & Project Tracking**: JIRA, Confluence
-- **Team Collaboration**: Microsoft Teams, Slack
-
-## Design and Creative Technologies:
-- **3D Modeling**: Unreal Engine, Rhino, Revit, 3DS Max
-- **Graphic Design**: Adobe Creative Suite, Octane
-- **Virtual Reality**: Oculus, Unity
-- **Web Technologies**: JavaScript, Three.js, HTML, CSS
-- **Frameworks**: React, Svelte
-
-## Security and Compliance:
-- **Security Analysis**: Checkmarx, Fortify 
-
-## API Development and Testing:
-- **API Tools**: Postman, Getsandbox
-- **Event-Driven Development**: Webhooks, Adaptive Cards
-
-## Web Development and Hosting:
-- **Content Management**: WordPress
-- **Web Hosting Services**: cPanel
-
-
-
-
 <div align="center">
   <!-- Contribution grid snake animation for dark mode -->
  <h2> 🍔 Latest Commits </h2>
@@ -118,3 +77,41 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
+
+
+## Technologies - Development and Operations:
+- **CI/CD Pipelines**: Azure DevOps, GitHub Actions, TFS
+- **Version Control**: Git, GitHub
+- **Scripting Languages**: Bash, JavaScript, PowerShell, Python, YAML
+- **IDEs**: Visual Studio Code, tmux
+- **Cloud Platforms**: AWS, Azure, TFS
+- **Containerization**: Docker
+- **Mainframe**: IBMz
+
+## Software and Systems Engineering:
+- **Programming Languages**: Java, Swift
+- **Machine Learning Libraries**: TensorFlow, PyTorch
+- **CRM Systems**: Salesforce, sfdx
+- **Repository Management**: npm
+
+## Collaboration and Project Management:
+- **Issue & Project Tracking**: JIRA, Confluence
+- **Team Collaboration**: Microsoft Teams, Slack
+
+## Design and Creative Technologies:
+- **3D Modeling**: Unreal Engine, Rhino, Revit, 3DS Max
+- **Graphic Design**: Adobe Creative Suite, Octane
+- **Virtual Reality**: Oculus, Unity
+- **Web Technologies**: JavaScript, Three.js, HTML, CSS
+- **Frameworks**: React, Svelte
+
+## Security and Compliance:
+- **Security Analysis**: Checkmarx, Fortify 
+
+## API Development and Testing:
+- **API Tools**: Postman, Getsandbox
+- **Event-Driven Development**: Webhooks, Adaptive Cards
+
+## Web Development and Hosting:
+- **Content Management**: WordPress
+- **Web Hosting Services**: cPanel
