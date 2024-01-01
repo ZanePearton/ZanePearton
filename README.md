@@ -10,14 +10,20 @@
   <!-- Contribution grid snake animation for dark mode -->
  <h2> 🍔 🤲Latest Commits </h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
-  <div align="center">
-    <h2> 🫡 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    <h2> 🫡 GitHub Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
-    <h2> 🫡 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  </div>
+ <div align="center">
+  <h2>🌟 My GitHub Statistics</h2>
+  <p>A glimpse into my contributions and coding preferences:</p>
+
+  <h3>💫 Overall GitHub Contributions</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="Zane's GitHub Stats"/>
+
+  <h3>🔥 Current Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Zane's Contribution Streak"/>
+
+  <h3>📊 Preferred Programming Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=tokyonight" alt="Zane's Top Languages"/>
+</div>
+
 <!-- <svg width="200" height="200" viewBox="0 0 200 200">
   <circle cx="100" cy="100" r="90" fill="lightblue" />
   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
