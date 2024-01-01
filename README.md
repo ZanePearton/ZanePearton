@@ -8,13 +8,11 @@
   </div>
 <div align="center">
   <!-- Contribution grid snake animation for dark mode -->
- <h2> 🍔 🤲Latest Commits </h2>
+ <h2> 🍔 Latest Commits </h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
  <div align="center">
-  <h2>🌟 My GitHub Statistics</h2>
-  <p>A glimpse into my contributions and coding preferences:</p>
 
-  <h2>💫 Overall GitHub Contributions</h2>
+  <h2> Overall GitHub Contributions</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="Zane's GitHub Stats"/>
 
   <h2>🔥 Current Contribution Streak</h2>
