@@ -1,14 +1,29 @@
+div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Cloud+Architecture+Guru;DevOps+Pro;Automation+Buff" alt="Typing SVG" />
 </div>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton" alt="Streak stats" />
-  </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats" />
+</div>
+
 <div style="margin: 25px 50px;">
 
 <div align="center">
   <h2>🚀 About Me</h2>
-  <p>Aus / EU citizenship. A Software Engineering specialist at Accenture, I specialize in fusing software development with operations to create automated workflows and ensure high system reliability. I have a diverse technical range covering a wide array of tools and technologies.</p>
+  <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+</div>
+
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=zanepearton&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <h2>🔥 Contribution Graph</h2>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 <h3>Technologies - Development and Operations:</h3>
