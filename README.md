@@ -50,12 +50,10 @@
   </div>
 
 <div align="center">
-
-  <h2>🔥 Current Contribution Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/>
-  <h2> Overall GitHub Contributions</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/>
-
-  <h2>📊 Preferred Programming Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/>
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/></td>
+     <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td>
+   </tr>
 </div>
