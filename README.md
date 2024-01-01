@@ -9,7 +9,14 @@
 <div align="center">
   <!-- Contribution grid snake animation for dark mode -->
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
+  <div align="center">
+    <h2> 🫡 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 
+  </div>
 <!-- <svg width="200" height="200" viewBox="0 0 200 200">
   <circle cx="100" cy="100" r="90" fill="lightblue" />
   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
@@ -54,13 +61,6 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
-  <div align="center">
-    <h2> 🫡 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 
-  </div>
 
 
