@@ -9,18 +9,17 @@
 
 <div align="center">
   <h2>🔥 Contribution Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
 </div>
 
   <div align="center">
     <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   </div>
 
 <div align="center">
   <h2>🫡 Contribution Chart</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
 </div>
 
   <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
