@@ -20,9 +20,9 @@
   I'm skilled in Docker for containerization, API sandboxing (Postman, Getsandbox), event-driven development (webhooks, adaptive cards), and machine learning libraries (TensorFlow, PyTorch). I'm also versed in WordPress, web hosting, and a suite of collaboration tools such as JIRA, Confluence, Microsoft Teams, and Slack.
 </p>
 <div align="center">
-  <!-- Contribution grid snake animation for dark mode -->
+  <!-Contribution grid snake animation for dark mode -->
  <h2> 🍔 Latest Commits </h2>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
  <div align="center">
   <h2>🔥 Current Contribution Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/>
@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/>
 </div>
 
-<!-- <svg width="200" height="200" viewBox="0 0 200 200">
+<!-<svg width="200" height="200" viewBox="0 0 200 200">
   <circle cx="100" cy="100" r="90" fill="lightblue" />
   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
 </svg> -->
@@ -79,39 +79,39 @@
   </div>
 
 
-## Technologies - Development and Operations:
-- **CI/CD Pipelines**: Azure DevOps, GitHub Actions, TFS
-- **Version Control**: Git, GitHub
-- **Scripting Languages**: Bash, JavaScript, PowerShell, Python, YAML
-- **IDEs**: Visual Studio Code, tmux
-- **Cloud Platforms**: AWS, Azure, TFS
-- **Containerization**: Docker
-- **Mainframe**: IBMz
+## Technologies Development and Operations:
+**CI/CD Pipelines**: Azure DevOps, GitHub Actions, TFS
+**Version Control**: Git, GitHub
+**Scripting Languages**: Bash, JavaScript, PowerShell, Python, YAML
+**IDEs**: Visual Studio Code, tmux
+**Cloud Platforms**: AWS, Azure, TFS
+**Containerization**: Docker
+**Mainframe**: IBMz
 
 ## Software and Systems Engineering:
-- **Programming Languages**: Java, Swift
-- **Machine Learning Libraries**: TensorFlow, PyTorch
-- **CRM Systems**: Salesforce, sfdx
-- **Repository Management**: npm
+**Programming Languages**: Java, Swift
+**Machine Learning Libraries**: TensorFlow, PyTorch
+**CRM Systems**: Salesforce, sfdx
+**Repository Management**: npm
 
 ## Collaboration and Project Management:
-- **Issue & Project Tracking**: JIRA, Confluence
-- **Team Collaboration**: Microsoft Teams, Slack
+**Issue & Project Tracking**: JIRA, Confluence
+**Team Collaboration**: Microsoft Teams, Slack
 
 ## Design and Creative Technologies:
-- **3D Modeling**: Unreal Engine, Rhino, Revit, 3DS Max
-- **Graphic Design**: Adobe Creative Suite, Octane
-- **Virtual Reality**: Oculus, Unity
-- **Web Technologies**: JavaScript, Three.js, HTML, CSS
-- **Frameworks**: React, Svelte
+**3D Modeling**: Unreal Engine, Rhino, Revit, 3DS Max
+**Graphic Design**: Adobe Creative Suite, Octane
+**Virtual Reality**: Oculus, Unity
+**Web Technologies**: JavaScript, Three.js, HTML, CSS
+**Frameworks**: React, Svelte
 
 ## Security and Compliance:
-- **Security Analysis**: Checkmarx, Fortify 
+**Security Analysis**: Checkmarx, Fortify 
 
 ## API Development and Testing:
-- **API Tools**: Postman, Getsandbox
-- **Event-Driven Development**: Webhooks, Adaptive Cards
+**API Tools**: Postman, Getsandbox
+**Event-Driven Development**: Webhooks, Adaptive Cards
 
 ## Web Development and Hosting:
-- **Content Management**: WordPress
-- **Web Hosting Services**: cPanel
+**Content Management**: WordPress
+**Web Hosting Services**: cPanel
