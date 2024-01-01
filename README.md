@@ -8,7 +8,7 @@
   </div>
 
 <div align="center">
-  <h2>🔥 Contribution Graph</h2>
+  <h2>🔥 Contribution Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats" />
 </div>
 
@@ -18,7 +18,7 @@
   </div>
 
 <div align="center">
-  <h2>🔥 Contribution Graph</h2>
+  <h2>🫡 Contribution Chart</h2>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph" />
 </div>
 
