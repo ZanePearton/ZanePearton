@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
+ <h2> 🍔 Latest Commits </h2>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
+ <div align="center">
 </div>
 <div align="center">
 <h2>🚀 About Me</h2>
@@ -20,10 +23,7 @@
   I'm skilled in Docker for containerization, API sandboxing (Postman, Getsandbox), event-driven development (webhooks, adaptive cards), and machine learning libraries (TensorFlow, PyTorch). I'm also versed in WordPress, web hosting, and a suite of collaboration tools such as JIRA, Confluence, Microsoft Teams, and Slack.
 </p>
 <div align="center">
-  <!-Contribution grid snake animation for dark mode -->
- <h2> 🍔 Latest Commits </h2>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
- <div align="center">
+
   <h2>🔥 Current Contribution Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/>
   <h2> Overall GitHub Contributions</h2>
