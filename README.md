@@ -7,6 +7,16 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <div align="center">
 </div>
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/zanepearton">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+</div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
@@ -55,18 +65,7 @@
   <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
   <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
 </div>
-  <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/zane-pearton">
-      <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://linktr.ee/zanepearton">
-      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-    </a>
-  </div>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
-  </div>
+
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
