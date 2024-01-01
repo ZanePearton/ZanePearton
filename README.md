@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
 </div>
+<div style="margin: 25px 50px;">
+  <div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+  </div>
 
   <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
   <div align="center">
@@ -15,11 +20,7 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
-<div style="margin: 25px 50px;">
-  <div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
-  </div>
+
 <div align="center">
   <h2>🫡 Contribution Chart</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
