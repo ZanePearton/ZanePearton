@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="YOUR_ANIMATED_HEADER.gif" alt="Header GIF" width="800" height="400"/>
 </div>
+
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;;DevOps+Pro;Automation" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps+Pro;Automation" alt="Typing SVG"/>
 </div>
 
 ## About Me 🚀
@@ -29,7 +30,7 @@
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
 </div>
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zanepearton)
+
 ## Here's a Joke to Brighten Your Day 😄
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Joke Card"/>
@@ -38,3 +39,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
 </div>
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zanepearton)
