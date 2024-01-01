@@ -14,10 +14,10 @@
   <h2>🔥 Current Contribution Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/>
   <h2> Overall GitHub Contributions</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="Zane's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/>
 
   <h2>📊 Preferred Programming Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=tokyonight" alt="Zane's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/>
 </div>
 
 <!-- <svg width="200" height="200" viewBox="0 0 200 200">
