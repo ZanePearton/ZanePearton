@@ -92,6 +92,5 @@
 </div>
 
 <div align="center">
-  <h2>🫡 Contribution Chart</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
 </div>
