@@ -5,10 +5,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=FFFFFF&center=true&vCenter=true&width=435&lines=...Interested+in....;+Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <div align="center">
 </div>
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -54,6 +53,6 @@
    <tr>
      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/></td>
      <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/></td>
-     <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td>
+<!--      <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td> -->
    </tr>
 </div>
