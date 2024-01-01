@@ -21,7 +21,7 @@ Database: MySQL, MongoDB, Cassandra, firebase
 
 **Connect with Me:**
 - LinkedIn: [ZanePearton](https://www.linkedin.com/in/zane-pearton)
-- Dev.to: [Zane](https://zanepearton.github.io/page/)
-
+- Github Page: [Zane](https://zanepearton.github.io/page/)
+- Linktree: [Zane Pearton](https://linktr.ee/zanepearton)
 **Here's a Joke to Brighten Your Day:**
 ![Joke Card](https://readme-jokes.vercel.app/api)
