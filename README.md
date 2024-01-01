@@ -7,7 +7,7 @@
 <h2>🚀 About Me</h2>
 </div>
 <p align="center">
-  Aus/EU citizenship. Software Engineering specialist at Accenture, my role is to fuse software development with operations, crafting efficient, automated workflows to maintain high system reliability. I deploy in varied environments, handle CI/CD pipelines, and manage environment configuration and user provisioning. I'm dedicated to leveraging my skills for continuous improvement and excellence in my professional pursuits.
+  ]Software Engineering specialist at Accenture, my role is to fuse software development with operations, crafting efficient, automated workflows to maintain high system reliability. I deploy in varied environments, handle CI/CD pipelines, and manage environment configuration and user provisioning. I'm dedicated to leveraging my skills for continuous improvement and excellence in my professional pursuits.
 </p>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
@@ -48,17 +48,7 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
-<p align="center">
-  I develop and integrate custom tools, using a wide range of technologies and programming languages such as AWS, Azure, Salesforce, Git, GitHub, Azure DevOps, GitHub Actions, Java, Bash, JavaScript, Python, YAML, and PowerShell.
-</p>
 
-<p align="center">
-  My technical range covers a spectrum of design and creative technologies like Unreal Engine, Rhino, Revit, Grasshopper, 3DS Max, Adobe Suite, Octane, 3D printing, VR (Oculus, Unity), JavaScript, Three.js, HTML, and CSS. I also have significant experience in AR, UI design, VR presentations, and web development.
-</p>
-
-<p align="center">
-  I'm skilled in Docker for containerization, API sandboxing (Postman, Getsandbox), event-driven development (webhooks, adaptive cards), and machine learning libraries (TensorFlow, PyTorch). I'm also versed in WordPress, web hosting, and a suite of collaboration tools such as JIRA, Confluence, Microsoft Teams, and Slack.
-</p>
 <div align="center">
 
   <h2>🔥 Current Contribution Streak</h2>
