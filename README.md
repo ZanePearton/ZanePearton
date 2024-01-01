@@ -3,7 +3,7 @@
  <div align="center">
 </div>
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats/h2>
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
  <table align="center" width="100%" height="100%" >
    <tr>
      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/></td>
