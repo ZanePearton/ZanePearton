@@ -1,14 +1,7 @@
-
-
-
 ![image](https://github.com/ZanePearton/ZanePearton/assets/87604418/e7b12a32-d83f-419c-9c69-72301ffaf892)
-
-
-
 
 </head>
 <body>
-  
   <div id="terminal">
     <pre>
       ███████╗░█████╗░███╗░░██╗███████╗
@@ -23,9 +16,6 @@
 </body>
 
 
-
-
-```markdown
 ### Welcome to the Digital Playground of Zane Pearton 👋
 
 **About Me:**
@@ -61,9 +51,3 @@ Don't forget to replace the placeholders with your actual URLs!
 
 **Here's a Joke to Brighten Your Day:**
 ![Joke Card](https://readme-jokes.vercel.app/api)
-
-<!-- The image below needs to be available in your repository as mentioned in the path -->
-![Zane's Avatar](https://github.com/ZanePearton/ZanePearton/blob/main/assets/zane-avatar.png)
-```
-
-Make sure to replace the placeholders with your actual information. The ASCII art of your name adds a unique touch, and the additional sections like "Tech Stack" and "Here's a Joke to Brighten Your Day" make your README more engaging and personable. Additionally, you can include GitHub metrics for an analytical touch. If you have any specific visual elements or features you want to add, let me know and we can further customize your README.
