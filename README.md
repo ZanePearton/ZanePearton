@@ -1,6 +1,20 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
 </div>
+
+  <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/zane-pearton">
+      <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://linktr.ee/zanepearton">
+      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+    </a>
+  </div>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
+  </div>
 <div style="margin: 25px 50px;">
   <div align="center">
     <h2>🚀 About Me</h2>
@@ -28,19 +42,6 @@
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   </div>
 
-  <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/zane-pearton">
-      <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://linktr.ee/zanepearton">
-      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-    </a>
-  </div>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
-  </div>
 
   <h3 class="section-heading">Technologies - Development and Operations:</h3>
   <ul>
