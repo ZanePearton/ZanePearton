@@ -1,4 +1,12 @@
-### Zane 
+<div id="header" align="center">
+  <img src="YOUR_ANIMATED_HEADER.gif" alt="Header GIF" />
+</div>
+
+### Hi there, I'm Zane 👋
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Cloud+Architecture+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG"/>
+</div>
 
 **About Me:**
 - 🔭 I’m fine-tuning cloud architectures to build robust, fail-safe systems.
@@ -8,19 +16,30 @@
 - 📡 Open to: Freelance projects and cutting-edge startup collaborations.
 
 **Tech Stack:**
-```yaml
-Cloud: AWS, Azure, GCP, TFS
-Code: Python, Go, JavaScript, Java
-Tools: Docker, Kubernetes, Terraform, Jenkins, Ansible
-Database: MySQL, MongoDB, Cassandra, firebase
-```
+<!-- Add icons for each technology -->
+<p align="left">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <!-- ... other techs -->
+</p>
+
 **GitHub Metrics:**
 ![Zane's GitHub metrics](https://metrics.lecoq.io/ZanePearton?template=classic&config.timezone=Australia%2FSydney)
 
 **Connect with Me:**
-- LinkedIn: [ZanePearton](https://www.linkedin.com/in/zane-pearton)
-- Github Page: [Zane](https://zanepearton.github.io/page/)
-- Linktree: [Zane Pearton](https://linktr.ee/zanepearton)
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- ... other connections -->
+</div>
 
 **Here's a Joke to Brighten Your Day:**
 ![Joke Card](https://readme-jokes.vercel.app/api)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
+</div>
+
+<!-- Optional footer or additional sections -->
