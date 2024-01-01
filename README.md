@@ -16,8 +16,7 @@
   <!-- Circle for Development and Operations -->
   <circle cx="100" cy="100" r="90" fill="lightblue" />
   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
-  <!-- More circles or paths for other categories -->
-  <!-- ... -->
+
 </svg>
 
 
