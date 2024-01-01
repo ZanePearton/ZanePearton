@@ -2,15 +2,11 @@
 
 
 ![image](https://github.com/ZanePearton/ZanePearton/assets/87604418/e7b12a32-d83f-419c-9c69-72301ffaf892)
-Let's jazz up your GitHub profile README with some additional flair and features:
+
 
 ```markdown
 ### Welcome to the Digital Playground of Zane Pearton 👋
 
-<!--
-**ZanePearton/ZanePearton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 ```text
  _____     ______     ______     ______   ______     ______    
@@ -42,10 +38,11 @@ Database: MySQL, MongoDB, Cassandra
 ![Zane's GitHub metrics](https://metrics.lecoq.io/ZanePearton?template=classic&config.timezone=Australia%2FSydney)
 
 **Connect with Me:**
-- LinkedIn: [ZanePearton](Your LinkedIn URL)
-- Dev.to: [Zane](Your Dev.to Profile)
-- Twitter: [@ZanePearton](Your Twitter URL)
-- Blog: [My Dev Journey](Your Blog URL)
+- LinkedIn: [ZanePearton](https://www.linkedin.com/in/zane-pearton)
+- Dev.to: [Zane](https://zanepearton.github.io/page/)
+
+
+
 
 <!--
 Don't forget to replace the placeholders with your actual URLs!
