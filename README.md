@@ -19,7 +19,8 @@
 
 <div align="center">
   <h2>🫡 Contribution Chart</h2>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton" alt="Contribution Graph" />
+
 </div>
 
   <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
