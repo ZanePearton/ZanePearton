@@ -6,7 +6,16 @@
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
   </div>
+<div align="center">
+  <!-- Contribution grid snake animation for dark mode -->
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
+  
+  <!-- Contribution grid snake animation for light mode -->
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation - Light Mode" />
 
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=zanepearton" alt="Profile Views" />
+</div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -43,7 +52,6 @@
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
     </a>
   </div>
-
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
   </div>
@@ -56,13 +64,10 @@
   <h2>🔥 Contribution Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
 </div>
-
   <div align="center">
     <h2>📊 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   </div>
-
-
   <h3 class="section-heading">Technologies - Development and Operations:</h3>
   <ul>
     <li>CI/CD Pipelines: Azure DevOps, GitHub Actions, TFS</li>
