@@ -12,9 +12,6 @@
   
   <!-- Contribution grid snake animation for light mode -->
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation - Light Mode" />
-
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=zanepearton" alt="Profile Views" />
 </div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
