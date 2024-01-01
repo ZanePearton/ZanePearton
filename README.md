@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Hey.. I'm+Za;I'm+Zane;I'm+Zan;I'm+Zane;" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Hey..+I'm+Za;I'm+Zane;I'm+Zan;I'm+Zane;" alt="Typing SVG" />
  <div align="center">
 </div>
 
