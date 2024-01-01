@@ -21,7 +21,7 @@
 
   <div align="center">
     <h2>🔥 Contribution Graph</h2>
-    <img src="https://activity-graph.herokuapp.com/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/> alt="Contribution Graph" />
   </div>
 
   <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
