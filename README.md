@@ -2,10 +2,6 @@
 
 
 ![image](https://github.com/ZanePearton/ZanePearton/assets/87604418/e7b12a32-d83f-419c-9c69-72301ffaf892)
-
-
-```markdown
-### Welcome to the Digital Playground of Zane Pearton 👋
 <!DOCTYPE html>
 <html lang="en">
   <!-- https://fsymbols.com/text-art/#google_vignette -->
@@ -51,6 +47,10 @@
 </body>
 </html>
 
+
+
+```markdown
+### Welcome to the Digital Playground of Zane Pearton 👋
 
 
 ```text
