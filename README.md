@@ -8,6 +8,7 @@
   </div>
 <div align="center">
   <!-- Contribution grid snake animation for dark mode -->
+ <h2> 🍔 🤲Latest Commits </h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
   <div align="center">
     <h2> 🫡 GitHub Stats</h2>
