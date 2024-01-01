@@ -6,7 +6,10 @@
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
   </div>
-
+<div align="center">
+  <h2>🫡 Contribution Chart</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
+</div>
 <div align="center">
   <h2>🔥 Contribution Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
@@ -17,10 +20,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   </div>
 
-<div align="center">
-  <h2>🫡 Contribution Chart</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
-</div>
 
   <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
   <div align="center">
