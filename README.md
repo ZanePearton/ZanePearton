@@ -1,31 +1,4 @@
-<style>
-  .section-heading {
-    color: #33F7FF;
-    font-size: 1.5em;
-    margin-bottom: 10px;
-  }
-  
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
 
-  li {
-    background: linear-gradient(145deg, #f0f0f0, #cacaca);
-    margin: 5px 0;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
-  }
-
-  li:before {
-    content: '✓';
-    color: #33F7FF;
-    font-weight: bold;
-    display: inline-block; 
-    width: 30px;
-  }
-</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
@@ -87,7 +60,7 @@
 
 </div>
 
-<h3 class="section-heading">Software and Systems Engineering:</h3>
+<h3>Software and Systems Engineering:</h3>
 <ul>
   <li>Programming Languages: Java, Swift</li>
   <li>Machine Learning Libraries: TensorFlow, PyTorch</li>
@@ -95,13 +68,13 @@
   <li>Repository Management: npm</li>
 </ul>
 
-<h3 class="section-heading">Collaboration and Project Management:</h3>
+<h3>Collaboration and Project Management:</h3>
 <ul>
   <li>Issue & Project Tracking: JIRA, Confluence</li>
   <li>Team Collaboration: Microsoft Teams, Slack</li>
 </ul>
 
-<h3 class="section-heading">Design and Creative Technologies:</h3>
+<h3>Design and Creative Technologies:</h3>
 <ul>
   <li>3D Modeling: Unreal Engine, Rhino, Revit, 3DS Max</li>
   <li>Graphic Design: Adobe Creative Suite, Octane</li>
@@ -110,18 +83,18 @@
   <li>Frameworks: React, Svelte</li>
 </ul>
 
-<h3 class="section-heading">Security and Compliance:</h3>
+<h3>Security and Compliance:</h3>
 <ul>
   <li>Security Analysis: Checkmarx, Fortify</li>
 </ul>
 
-<h3 class="section-heading">API Development and Testing:</h3>
+<h3>API Development and Testing:</h3>
 <ul>
   <li>API Tools: Postman, Getsandbox</li>
   <li>Event-Driven Development: Webhooks, Adaptive Cards</li>
 </ul>
 
-<h3 class="section-heading">Web Development and Hosting:</h3>
+<h3>Web Development and Hosting:</h3>
 <ul>
   <li>Content Management: WordPress</li>
   <li>Web Hosting Services: cPanel</li>
