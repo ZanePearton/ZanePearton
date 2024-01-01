@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;DevOps;Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=33F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Expert;Cloud+Architecture+Strategist;DevOps+Specialist;Automation+Leader" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,37 +9,42 @@
 <div style="margin: 25px 50px;">
 
 <div align="center">
-  <h2>🚀 About Me</h2>
+  <h2 style="color:#33F7FF;">🚀 About Me</h2>
   <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2 style="color:#33F7FF;">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=zanepearton&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <h2>🔥 Contribution Graph</h2>
+  <h2 style="color:#33F7FF;">🔥 Contribution Graph</h2>
   <img src="https://activity-graph.herokuapp.com/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph" />
 </div>
-  <h2 align="center">🛠️ Tech Stack</h2>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  </div>
-  <h2 align="center">🌐 Connect with Me</h2>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/zane-pearton">
-      <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://linktr.ee/zanepearton">
-      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-    </a>
-  </div>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
-  </div>
+
+<h2 align="center" style="color:#33F7FF;">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+</div>
+
+<h2 align="center" style="color:#33F7FF;">🌐 Connect with Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/zanepearton">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=flat-square" alt="Profile views" />
+</div>
+
+
 
 <h3>Technologies - Development and Operations:</h3>
 <ul>
