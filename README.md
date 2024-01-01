@@ -12,10 +12,10 @@
   <div align="center">
     <h2> 🫡 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <h2> 🫡 GitHub Stats</h2>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats"/>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&show_icons=true&theme=tokyonight" alt="GitHub Stats"/> -->
+    <h2> 🫡 GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-
   </div>
 <!-- <svg width="200" height="200" viewBox="0 0 200 200">
   <circle cx="100" cy="100" r="90" fill="lightblue" />
