@@ -10,6 +10,7 @@
   </div>
 
 <div align="center">
+  <h2>🔥 Contribution Graph</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=dark" alt="Streak stats" />
 </div>
 
