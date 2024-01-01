@@ -5,7 +5,7 @@
 ### Hi there, I'm Zane 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Cloud+Architecture+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG"/>
 </div>
 
 **About Me:**
@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <!-- ... other techs -->
 </p>
-
-**GitHub Metrics:**
-![Zane's GitHub metrics](https://metrics.lecoq.io/ZanePearton?template=classic&config.timezone=Australia%2FSydney)
 
 **Connect with Me:**
 <div align="center">
