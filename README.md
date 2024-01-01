@@ -9,15 +9,11 @@
 <div align="center">
   <!-- Contribution grid snake animation for dark mode -->
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
-  
-  <!-- Contribution grid snake animation for light mode -->
 
-<svg width="200" height="200" viewBox="0 0 200 200">
-  <!-- Circle for Development and Operations -->
+<!-- <svg width="200" height="200" viewBox="0 0 200 200">
   <circle cx="100" cy="100" r="90" fill="lightblue" />
   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
-
-</svg>
+</svg> -->
 
 
 
