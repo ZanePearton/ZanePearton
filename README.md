@@ -23,12 +23,5 @@ Database: MySQL, MongoDB, Cassandra, firebase
 - LinkedIn: [ZanePearton](https://www.linkedin.com/in/zane-pearton)
 - Dev.to: [Zane](https://zanepearton.github.io/page/)
 
-
-
-
-<!--
-Don't forget to replace the placeholders with your actual URLs!
--->
-
 **Here's a Joke to Brighten Your Day:**
 ![Joke Card](https://readme-jokes.vercel.app/api)
