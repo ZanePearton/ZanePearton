@@ -2,7 +2,7 @@
   <img src="YOUR_ANIMATED_HEADER.gif" alt="Header GIF" width="800" height="400"/>
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Cloud+Architecture+Wizard;Always+Learning+New+Tech;DevOps+Pro;Automation+Advocate" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;;DevOps+Pro;Automation" alt="Typing SVG"/>
 </div>
 
 ## About Me 🚀
