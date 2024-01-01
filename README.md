@@ -8,15 +8,6 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <div align="center">
 </div>
-<div align="center">
- <h2 align="center" class="section-heading"> 💻 Github Stats/h2>
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/></td>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/></td>
-<!--      <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td> -->
-   </tr>
-</div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
