@@ -90,3 +90,8 @@
 <!--      <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td> -->
    </tr>
 </div>
+
+<div align="center">
+  <h2>🫡 Contribution Chart</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
+</div>
