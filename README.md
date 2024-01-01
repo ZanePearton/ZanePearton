@@ -11,6 +11,17 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation - Dark Mode" />
   
   <!-- Contribution grid snake animation for light mode -->
+
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <!-- Circle for Development and Operations -->
+  <circle cx="100" cy="100" r="90" fill="lightblue" />
+  <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" dy=".3em">Development and Operations</text>
+  <!-- More circles or paths for other categories -->
+  <!-- ... -->
+</svg>
+
+
+
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
