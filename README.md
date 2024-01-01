@@ -7,6 +7,11 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
  <div align="center">
 </div>
+
+  <div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+  </div>
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/zane-pearton">
