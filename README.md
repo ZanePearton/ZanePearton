@@ -5,7 +5,7 @@
 ### Hi there, I'm Zane 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;Always+Learning+New+Tech" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&duration=5000&color=F7EB05&center=true&vCenter=true&width=435&lines=Machine+Learning;Cloud+Architecture;Always+Learning;Devops;Automation" alt="Typing SVG"/>
 </div>
 
 **About Me:**
