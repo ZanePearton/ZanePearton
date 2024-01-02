@@ -8,8 +8,6 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=FFFFFF&center=true&vCenter=true&width=435&lines=...Interested+in....;+..Machine+Learning..;..VR+AR+Development..;..Cloud+solutions..;..Devops..;..Automation.." alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=000000&center=true&vCenter=true&width=435&lines=...Interested+in....;+..Machine+Learning..;..VR+AR+Development..;..Cloud+solutions..;..Devops..;..Automation.." alt="Typing SVG" />
@@ -22,8 +20,9 @@
 </div>
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=dark" alt="Zane's GitHub Stats"/>
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=dark" alt="Zane's GitHub Stats"/>
   <a href="https://www.linkedin.com/in/zane-pearton">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
