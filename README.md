@@ -1,4 +1,4 @@
- <iframe src="https://skyline.github.com/yourusername/2023" width="600" height="400"></iframe>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG" />
@@ -19,12 +19,20 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/zane-pearton">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   
   </a>
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
+
+<!-- Link to your GitHub or GitHub Skyline -->
+<a href="https://skyline.github.com/yourusername/2023" target="_blank">
+    <!-- Custom badge for GitHub -->
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 
