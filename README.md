@@ -1,12 +1,14 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
+
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
 </div>
+
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
