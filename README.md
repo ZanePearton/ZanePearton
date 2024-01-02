@@ -91,6 +91,4 @@
    </tr>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
-</div>
+
