@@ -97,7 +97,7 @@
    <tr>
      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=ambient_gradient" alt="Zane's Contribution Streak"/></td>
      <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=ambient_gradient" alt="Zane's GitHub Stats"/></td>
-<!--      <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td> -->
+     <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=ambient_gradient" alt="Zane's Top Languages"/></td>
    </tr>
 </div>
 
