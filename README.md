@@ -102,8 +102,8 @@
 
 <tr>
   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=dark" alt="Zane's GitHub Stats"/></td>
-  <td><img src="httpS://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=default" alt="Zane's GitHub Stats"/></td>
-  <td><img src="httpS://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=default&utcOffset=8" alt="Zane's GitHub Stats"/></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=default" alt="Zane's GitHub Stats"/></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=default&utcOffset=8" alt="Zane's GitHub Stats"/></td>
 </tr>
 </div>
 
