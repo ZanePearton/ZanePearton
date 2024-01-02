@@ -28,9 +28,9 @@
 </div>
 
 <!-- Link to your GitHub or GitHub Skyline -->
-<a href="https://skyline.github.com/yourusername/2023" target="_blank">
+<a href="https://skyline.github.com/zanepearton/2023" target="_blank">
     <!-- Custom badge for GitHub -->
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 
 
