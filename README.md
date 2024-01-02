@@ -1,5 +1,4 @@
-![Alt text for the GIF](URL_OF_THE_GIF)
-
+<img align="center" alt="GIF" src="termina-gh.gif" />
 
 <div align="center">
 <!--   <h1> DevOps | Software Engineering | Automation </h1> -->
