@@ -8,6 +8,10 @@
  <div align="center">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zanepearton&theme=react-dark" alt="Contribution Graph"/>
+</div>
+
   <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
