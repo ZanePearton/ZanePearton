@@ -1,11 +1,11 @@
 
 
-<div align="center">
-<!--   <h1> DevOps | Software Engineering | Automation </h1> -->
-  <img src="termina-gh.gif" alt="GIF" />
+<div style="text-align: center;">
+  <img src="termina-gh.gif" alt="Terminal GH GIF" />
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+
 
 <div align="center">
     <h2>🚀 About Me</h2>
