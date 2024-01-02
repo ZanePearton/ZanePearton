@@ -16,8 +16,16 @@
 
 </div>
 
+
+
+<div style="text-align:center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3000&color=11111&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=11111&center=true&vCenter=true&width=435&lines=...Interested+in....;+..Machine+Learning..;..VR+AR+Development..;..Cloud+solutions..;..Devops..;..Automation.." alt="Typing SVG" />
+</div>
+
+
 <div align="center">
-  <h1> DevOps | Software Engineering | Automation </h1>
+<!--   <h1> DevOps | Software Engineering | Automation </h1> -->
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
