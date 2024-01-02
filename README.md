@@ -1,5 +1,7 @@
 <div align="center">
     <h1>Hey There... I am Zane.. 🫡</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=111111&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=111111&center=true&vCenter=true&width=435&lines=...Interested+in....;+..Machine+Learning..;..VR+AR+Development..;..Cloud+solutions..;..Devops..;..Automation.." alt="Typing SVG" />
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
