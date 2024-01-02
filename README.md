@@ -96,12 +96,12 @@
      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
      <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=merko" alt="Zane's GitHub Stats"/></td>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanePearton&layout=donut&theme=merko" alt="Zane's Top Languages"/></td>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=dark" alt="Zane's GitHub Stats"/></td>
+     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
    </tr>
 
 <tr>
-  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=dark" alt="Zane's GitHub Stats"/></td>
-  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=dark&utcOffset=8" alt="Zane's GitHub Stats"/></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=8" alt="Zane's GitHub Stats"/></td>
 </tr>
 </div>
 
