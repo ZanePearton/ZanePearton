@@ -1,8 +1,8 @@
-
-
-<div style="text-align: center;">
-  <img src="termina-gh.gif" alt="Terminal GH GIF" />
+<div align="center">
+    <h1>Hey There... I am Zane.. 🫡</h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
+
 
 <div align="center">
     <h2>🚀 About Me</h2>
