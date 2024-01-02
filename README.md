@@ -24,14 +24,12 @@
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
-</div>
-
-<!-- Link to your GitHub or GitHub Skyline -->
-<a href="https://skyline.github.com/zanepearton/2023" target="_blank">
+<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
     <!-- Custom badge for GitHub -->
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
+  <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+</div>
 
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
