@@ -92,7 +92,9 @@
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
+<tr>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+ </table>tr>
 <tr>
      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
      <td><img src="https://github-readme-stats.vercel.app/api?username=ZanePearton&show_icons=true&theme=merko" alt="Zane's GitHub Stats"/></td>
