@@ -1,3 +1,4 @@
+![Alt text for the GIF](URL_OF_THE_GIF)
 
 
 <div align="center">
