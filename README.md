@@ -29,35 +29,6 @@
 <img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
 </div>
 
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
-
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
-
-
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
@@ -115,4 +86,32 @@
   <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
 </div>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
 
