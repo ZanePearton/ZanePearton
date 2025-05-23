@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Zane%20Pearton&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Zane%20Pearton&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -347,5 +347,5 @@ I've implemented DevOps practices through CI/CD pipelines, infrastructure as cod
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=24&fontAlignY=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=24&fontAlignY=80" width="100%" />
 </div>
