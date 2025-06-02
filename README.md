@@ -33,7 +33,7 @@ I've implemented DevOps practices through CI/CD pipelines, infrastructure as cod
 <h2 align="center">Technical Universe</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,react,aws,azure,docker,terraform,unity,unreal" height="45" />
+  <img src="https://skillicons.dev/icons?i=py,next,js,react,aws,azure,docker,terraform,unity,unreal" height="45" />
 </div>
 
 ```
