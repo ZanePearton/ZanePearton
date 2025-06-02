@@ -37,13 +37,16 @@ I've implemented DevOps practices through CI/CD pipelines, infrastructure as cod
 </div>
 
 ```
-🔮 DATA ENGINEERING     🔧 DEVOPS            💻 SOFTWARE DEV       🎮 VR/AR              🏗️ ARCHITECTURE
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-✓ Python               ✓ CI/CD              ✓ TypeScript          ✓ Unity               ✓ 3DS Max
-✓ Tensorflow           ✓ Docker             ✓ Next.js             ✓ Unreal Engine       ✓ Maya
-✓ Snowflake            ✓ Terraform          ✓ React               ✓ 3D Modeling         ✓ Rhino
-✓ Data Pipelines       ✓ AWS                ✓ API Development     ✓ AR/VR               ✓ Revit
-✓ ETL Processes        ✓ Azure              ✓ JaveScript          ✓ Oculus              ✓ ArchiCAD
+╔════════════════════════╦════════════════════════╦════════════════════════╦════════════════════════╦════════════════════════╗
+║ DATA ENGINEERING       ║ DEVOPS                 ║ SOFTWARE DEV           ║ VR / AR                ║ ARCHITECTURE           ║
+╠════════════════════════╬════════════════════════╬════════════════════════╬════════════════════════╬════════════════════════╣
+║ ✓ Python               ║ ✓ CI/CD                ║ ✓ TypeScript           ║ ✓ Unity                ║ ✓ 3DS Max              ║
+║ ✓ TensorFlow           ║ ✓ Docker               ║ ✓ Next.js              ║ ✓ Unreal Engine        ║ ✓ Maya                 ║
+║ ✓ Snowflake            ║ ✓ Terraform            ║ ✓ React                ║ ✓ 3D Modeling          ║ ✓ Rhino                ║
+║ ✓ Data Pipelines       ║ ✓ AWS                  ║ ✓ API Development      ║ ✓ Augmented / Virtual  ║ ✓ Revit                ║
+║ ✓ ETL Processes        ║ ✓ Azure                ║ ✓ JavaScript           ║ ✓ Oculus               ║ ✓ ArchiCAD             ║
+╚════════════════════════╩════════════════════════╩════════════════════════╩════════════════════════╩════════════════════════╝
+
 ```
 
 <!-- TECH TAGS -->
