@@ -33,17 +33,17 @@ I've implemented DevOps practices through CI/CD pipelines, infrastructure as cod
 <h2 align="center">Technical Universe</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,next,js,react,aws,azure,docker,terraform,unity,unreal" height="45" />
+  <img src="https://skillicons.dev/icons?i=py,next,js,typescript,react,aws,azure,docker,terraform,unity,unreal" height="45" />
 </div>
 
 ```
 🔮 DATA ENGINEERING     🔧 DEVOPS            💻 SOFTWARE DEV       🎮 VR/AR              🏗️ ARCHITECTURE
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-✓ Python               ✓ CI/CD              ✓ JavaScript          ✓ Unity               ✓ 3DS Max
-✓ SQL                  ✓ Docker             ✓ Java                ✓ Unreal Engine       ✓ Maya
+✓ Python               ✓ CI/CD              ✓ TypeScript          ✓ Unity               ✓ 3DS Max
+✓ Tensorflow           ✓ Docker             ✓ Next.js             ✓ Unreal Engine       ✓ Maya
 ✓ Snowflake            ✓ Terraform          ✓ React               ✓ 3D Modeling         ✓ Rhino
 ✓ Data Pipelines       ✓ AWS                ✓ API Development     ✓ AR/VR               ✓ Revit
-✓ ETL Processes        ✓ Azure              ✓ TensorFlow          ✓ Oculus              ✓ ArchiCAD
+✓ ETL Processes        ✓ Azure              ✓ JaveScript          ✓ Oculus              ✓ ArchiCAD
 ```
 
 <!-- TECH TAGS -->
