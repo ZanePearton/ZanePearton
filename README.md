@@ -329,14 +329,7 @@ Python library for natural language processing, text embedding, document indexin
 </div>
 
 ---
-
-## 🎯 Current Focus & Initiatives
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=✦+Exploring+cloud-native+architectures+and+serverless+computing;✦+Crafting+immersive+XR+experiences+with+cutting-edge+technology;✦+Building+scalable%2C+resilient+systems+that+stand+the+test+of+time;✦+Researching+multimodal+AI+for+enhanced+human-computer+interaction" alt="Current Focus" />
-</div>
-
-### Strategic Development Areas
+### 🎯 Strategic Development Areas
 
 ```mermaid
 mindmap
