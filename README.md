@@ -368,7 +368,3 @@ mindmap
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=24&fontAlignY=80" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+on+your+next+project%3F;Let's+push+the+boundaries+of+what's+possible!" alt="Collaboration CTA" />
-</div>
