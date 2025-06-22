@@ -268,7 +268,7 @@ Machine Learning model trained on 20,000 McDonald's reviews using RNNs for senti
 An implementation of the classic Snake game powered by Machine Learning. The snake is trained to find food while avoiding collisions with its tail and boundaries.
 
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgegrowth.html)
+[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/neurosnake.html)
 
 </td>
 </tr>
