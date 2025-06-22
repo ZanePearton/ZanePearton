@@ -242,7 +242,7 @@ Interactive 3D differential mesh growth creating organic, emergent structures wi
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 #### 🍟 **McDeepNet**
 <a href="https://github.com/ZanePearton/McDeepNet" target="_blank">
@@ -258,17 +258,17 @@ Machine Learning model trained on 20,000 McDonald's reviews using RNNs for senti
 [![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/ZanePearton/McDeepNet)
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-#### 🔗 **LangChainGPT**
+####  **neuroSnake**
+<a href="https://zanepearton.github.io/projects/neurosnake.html" target="_blank">
+  <img src="https://zanepearton.github.io/js/ui/media/media-tf-snake.png" alt="Edge Growth" width="100%" />
+</a>
 
-Python library for natural language processing, text embedding, document indexing, and information retrieval systems. Makes it easy to leverage the power of language models for various applications.
+An implementation of the classic Snake game powered by Machine Learning. The snake is trained to find food while avoiding collisions with its tail and boundaries.
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%23FF6F00.svg?style=flat-square)
-![Text Embedding](https://img.shields.io/badge/Text%20Embedding-%233399FF.svg?style=flat-square)
-
-[![GitHub](https://img.shields.io/badge/📖%20Repository-View%20Code-121011?style=for-the-badge&logo=github)](https://github.com/ZanePearton/langchaingpt)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/🌱%20Live%20Demo-View%20Project-FF5733?style=for-the-badge)](https://zanepearton.github.io/projects/edgegrowth.html)
 
 </td>
 </tr>
