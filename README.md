@@ -27,8 +27,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
 </div>
 
-> **Building the future at the intersection of data, cloud, and immersive technologies**
-
 Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engineering solutions. I architect scalable data pipelines, deploy cloud-native applications, and create immersive XR experiences that push technological boundaries.
 
 **Current Focus:** Exploring AI-driven automation, cloud-native architectures, and next-generation XR interfaces.
@@ -57,50 +55,40 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 <div align="center">
 
-### Data Engineering
+### Data Engineering: ETL Pipelines • Data Analytics • ML Operations
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-*ETL Pipelines • Data Analytics • ML Operations*
-
-### DevOps & Cloud
+### DevOps & Cloud: Infrastructure as Code • CI/CD • Orchestration 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-*Infrastructure as Code • CI/CD • Orchestration*
-
-### Software Development
+### Software Development: Full-Stack Development • Web APIs • Real-time Systems
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Full-Stack Development • Web APIs • Real-time Systems*
-
-### XR & Immersive Tech
+### XR & Immersive Tech: Virtual Reality • Augmented Reality • 3D Visualization
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR-FF6B35?style=flat-square&logo=webxr&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Quest-1C1E20?style=flat-square&logo=meta&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-*Virtual Reality • Augmented Reality • 3D Visualization*
-
-### Architecture & Design
+### Architecture & Design: Architectural Visualization • 3D Modeling • CAD Design
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
 ![Rhino](https://img.shields.io/badge/Rhino3D-801010?style=flat-square&logoColor=white)
 ![Revit](https://img.shields.io/badge/Revit-0079C1?style=flat-square&logo=autodesk&logoColor=white)
-
-*Architectural Visualization • 3D Modeling • CAD Design*
 
 </div>
 
