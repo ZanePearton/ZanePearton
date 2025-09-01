@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+with+expertise+across;data%2C+cloud%2C+DevOps%2C+and+immersive+technologies" alt="Typing SVG" />
@@ -35,7 +35,7 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 <div align="center">
   
@@ -53,11 +53,11 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 ---
 
-## 🎯 Domain Expertise
+## Domain Expertise
 
 <div align="center">
 
-### 📊 Data Engineering
+### Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
@@ -66,7 +66,7 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 *ETL Pipelines • Data Analytics • ML Operations*
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -75,7 +75,7 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 *Infrastructure as Code • CI/CD • Orchestration*
 
-### 💻 Software Development
+### Software Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -84,7 +84,7 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 *Full-Stack Development • Web APIs • Real-time Systems*
 
-### 🥽 XR & Immersive Tech
+### XR & Immersive Tech
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR-FF6B35?style=flat-square&logo=webxr&logoColor=white)
@@ -93,7 +93,7 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 *Virtual Reality • Augmented Reality • 3D Visualization*
 
-### 🏗️ Architecture & Design
+### Architecture & Design
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
@@ -106,15 +106,15 @@ Software Engineer with **Aus/EU citizenship**, specializing in multi-domain engi
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🏢 3D Visualization & Architectural Rendering
+### 3D Visualization & Architectural Rendering
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 
-#### 🏠 **Altman House Kitchen Refurbishment**
+#### **Altman House Kitchen Refurbishment**
 [![Kitchen Refurbishment](https://img.youtube.com/vi/vIdtdDMdP8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=vIdtdDMdP8Q)
 
 Detailed visualization of a kitchen refurbishment project demonstrating photorealistic interior renderings with precise material textures, custom cabinetry, and realistic lighting.
@@ -126,7 +126,7 @@ Detailed visualization of a kitchen refurbishment project demonstrating photorea
 </td>
 <td width="50%" align="center">
 
-#### 🏡 **Interactive Architectural Visualization**
+#### **Interactive Architectural Visualization**
 [![Architectural Visualization](https://img.youtube.com/vi/l31bYgLR7p4/hqdefault.jpg)](https://www.youtube.com/watch?v=l31bYgLR7p4)
 
 Professional residential architecture visualization created in Unreal Engine showcasing photo-realistic environments with detailed interiors and dynamic lighting.
@@ -139,13 +139,13 @@ Professional residential architecture visualization created in Unreal Engine sho
 </tr>
 </table>
 
-### 🎨 Creative Coding & Generative Art
+### Creative Coding & Generative Art
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-#### 🌊 **Erosion Simulation**
+#### **Erosion Simulation**
 <a href="https://zanepearton.github.io/projects/erosion.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-erosion.png" alt="Erosion Simulation" width="100%" />
 </a>
@@ -160,7 +160,7 @@ Interactive 3D terrain erosion simulation demonstrating hydraulic erosion with r
 </td>
 <td width="33%" align="center">
 
-#### 🐦 **Flocking Simulation**
+#### **Flocking Simulation**
 <a href="https://zanepearton.github.io/projects/flocking.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-flocking.png" alt="Flocking Simulation" width="100%" />
 </a>
@@ -175,7 +175,7 @@ Interactive 3D terrain erosion simulation demonstrating hydraulic erosion with r
 </td>
 <td width="33%" align="center">
 
-#### 🔗 **Edge Bundling**
+#### **Edge Bundling**
 <a href="https://zanepearton.github.io/projects/edgebundling.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-edgebundling.png" alt="Edge Bundling" width="100%" />
 </a>
@@ -192,7 +192,7 @@ Interactive 3D network visualization using force-directed edge bundling for eleg
 <tr>
 <td width="33%" align="center">
 
-#### 🌀 **Gyroid Visualization**
+#### **Gyroid Visualization**
 <a href="https://zanepearton.github.io/projects/gyroid.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-gy.png" alt="Gyroid Visualization" width="100%" />
 </a>
@@ -207,7 +207,7 @@ Real-time visualization of the Gyroid minimal surface using Marching Cubes algor
 </td>
 <td width="33%" align="center">
 
-#### 💫 **Flow Fields**
+#### **Flow Fields**
 <a href="https://zanepearton.github.io/projects/flowfields.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-flowfields.png" alt="Flow Fields" width="100%" />
 </a>
@@ -222,7 +222,7 @@ Immersive 3D flow field visualization simulating fluid-like particle motion usin
 </td>
 <td width="33%" align="center">
 
-#### 🌱 **Differential Growth**
+#### **Differential Growth**
 <a href="https://zanepearton.github.io/projects/edgegrowth.html" target="_blank">
   <img src="https://zanepearton.github.io/js/ui/media/media-edge.png" alt="Edge Growth" width="100%" />
 </a>
@@ -238,13 +238,13 @@ Interactive 3D differential mesh growth creating organic, emergent structures wi
 </tr>
 </table>
 
-### 🤖 Machine Learning & AI Projects
+### Machine Learning & AI Projects
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-#### 🍟 **McDeepNet**
+#### **McDeepNet**
 <a href="https://github.com/ZanePearton/McDeepNet" target="_blank">
   <img src="https://github.com/ZanePearton/McDeepNet/blob/main/RecordIt-FEC16C29-55C7-4473-9F9D-430C821C0714.gif?raw=true" alt="McDeepNet Demo" width="100%" />
 </a>
@@ -276,7 +276,7 @@ An implementation of the classic Snake game powered by Machine Learning. The sna
 
 ---
 
-## 🏆 Professional Certifications
+## Professional Certifications
 
 <div align="center">
 
@@ -288,16 +288,16 @@ An implementation of the classic Snake game powered by Machine Learning. The sna
 
 </div>
 
-### 🔷 Microsoft Azure
+### Microsoft Azure
 **Data Engineer Associate** • **Data Scientist Associate** • **AI Engineer Associate** • **AI Fundamentals** • **Data Fundamentals** • **Azure Fundamentals** • **Security & Identity** • **DevOps Solutions**
 
-### ⚡ GitLab  
+### GitLab  
 **CI/CD Associate** • **Git Associate** • **Security Specialist** • **Project Management** • **Implementation Services** • **Services Engineer** • **Migration Services** • **GitLab CI**
 
-### ☁️ AWS & Google Cloud
+### AWS & Google Cloud
 **Cloud Practitioner** • **Generative AI** • **ML Foundations** • **Serverless Computing** • **LLM Introduction** • **Responsible AI**
 
-### 📊 Data Science & Security
+### Data Science & Security
 **OpenAI API Systems** • **Time Series ML** • **TensorFlow/OpenCV** • **Cisco Cybersecurity** • **Linux Essentials** • **Python PCEP** • **IBM Deep Learning** • **Containers/Kubernetes** • **COBOL Programming**
 
 <div align="center">
@@ -306,7 +306,7 @@ An implementation of the classic Snake game powered by Machine Learning. The sna
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" width="100%" />
@@ -329,7 +329,7 @@ An implementation of the classic Snake game powered by Machine Learning. The sna
 </div>
 
 ---
-### 🎯 Strategic Development Areas
+### Strategic Development Areas
 
 ```mermaid
 mindmap
